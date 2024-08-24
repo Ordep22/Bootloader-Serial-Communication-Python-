@@ -72,7 +72,7 @@ class Application:
 
         self.root.title("Bootloader Módulo de Potência Ande 2023")
         self.root.iconphoto(False, PhotoImage(
-            file=r"Lupa.png"))
+            file=r"cogwheels.png"))
         self.root.geometry("700x600+350+150")
         self.root.resizable(False, False)
 
